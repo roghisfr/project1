@@ -1,0 +1,14 @@
+.input-search::placeholder {
+  color: #706d6d;
+}
+
+.select-style {
+  background-color: #f4f3f3;
+  
+}
+
+.select-style:focus-visible,
+.select-style:focus {
+    outline: 0 !important;
+    box-shadow: none;
+}
